@@ -30,7 +30,7 @@ The objective of this project is to support HR decision-making through data-driv
 
 ## Dashboard Preview
 
-![Dashboard Preview](Screenshots/dashboard-preview.png)
+![Dashboard Preview](Screenshots)
 
 ---
 
